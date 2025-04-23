@@ -1,0 +1,1 @@
+# swtor_bot_legal
